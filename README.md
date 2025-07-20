@@ -6,4 +6,4 @@ The code for multi-camera recording and synchronization with mTPM.
 ### Preprocess code
 The code for neural and behavioral data preprocessing.
 ### Figure code
-The code for reproducing the figures/
+The code for reproducing the figures.
